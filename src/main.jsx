@@ -4,11 +4,11 @@ import { ArrowUpRight, ArrowDown, ArrowRight, Menu, X } from 'lucide-react'
 import './styles.css'
 
 const projects = [
-  { id: '01', type: 'LANDSCAPE · GRADUATION DESIGN', title: '生态农业展示空间 / 景观视觉系统', year: '2026', image: '/assets/portfolio/eco-board-01.webp', tone: 'violet', fit: 'artwork' },
-  { id: '02', type: 'LANDSCAPE · SYSTEM DESIGN', title: '生态农业展示空间 / 专题设计', year: '2026', image: '/assets/portfolio/eco-board-02.webp', tone: 'blue', fit: 'artwork' },
-  { id: '03', type: 'CAMPAIGN · POSTER DESIGN', title: '夏日餐饮视觉 / 甜品菜单', year: '2026.07', image: '/assets/portfolio/cafe-dessert-2026.webp', tone: 'coral', fit: 'artwork' },
-  { id: '04', type: 'CAMPAIGN · MENU SYSTEM', title: '夏日餐饮视觉 / 饮品菜单', year: '2026.07', image: '/assets/portfolio/cafe-drinks-2026.webp', tone: 'blue', fit: 'artwork' },
-  { id: '05', type: 'CAMPAIGN · VISUAL DETAIL', title: '夏日餐饮视觉 / 版式细节', year: '2026.07', image: '/assets/portfolio/cafe-drinks-detail-2026.webp', tone: 'violet', fit: 'artwork' },
+  { id: '01', type: 'LANDSCAPE · GRADUATION DESIGN', title: '生态农业展示空间 / 景观视觉系统', year: '2026', image: '/assets/portfolio/eco-board-01-v2.webp', tone: 'violet', fit: 'artwork' },
+  { id: '02', type: 'LANDSCAPE · SYSTEM DESIGN', title: '生态农业展示空间 / 专题设计', year: '2026', image: '/assets/portfolio/eco-board-02-v2.webp', tone: 'blue', fit: 'artwork' },
+  { id: '03', type: 'CAMPAIGN · POSTER DESIGN', title: '夏日餐饮视觉 / 甜品菜单', year: '2026.07', image: '/assets/portfolio/cafe-dessert-2026-v2.webp', tone: 'coral', fit: 'artwork' },
+  { id: '04', type: 'CAMPAIGN · MENU SYSTEM', title: '夏日餐饮视觉 / 饮品菜单', year: '2026.07', image: '/assets/portfolio/cafe-drinks-2026-v2.webp', tone: 'blue', fit: 'artwork' },
+  { id: '05', type: 'CAMPAIGN · VISUAL DETAIL', title: '夏日餐饮视觉 / 版式细节', year: '2026.07', image: '/assets/portfolio/cafe-drinks-detail-2026-v2.webp', tone: 'violet', fit: 'artwork' },
 ]
 const strengths = [['01', '视觉叙事', '从场地调研到画面表达，建立清晰、有情绪的视觉语言。'], ['02', 'AI 创意工作流', '把生成式 AI 变成可控、可复用的创意协作者。'], ['03', '品牌系统', '不只做一张好看的图，而是搭建能持续生长的系统。'], ['04', '跨界协作', '在策略、设计、内容与技术之间保持高效沟通。']]
 
